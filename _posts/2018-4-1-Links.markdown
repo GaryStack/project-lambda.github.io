@@ -23,4 +23,4 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 [~~大哥~~秋日私语](https://blog.csdn.net/A_Comme_Amour)
 
-[数竞Au爷马独秀](https://mhrlovezmy.coding.me)
+[数竞Au爷马独秀](https://mhrlovezmy.coding.me/)
