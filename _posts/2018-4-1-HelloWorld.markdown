@@ -11,6 +11,6 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 Hello World
 
-##Just A Begining
+Just A Begining
 
 谨此纪念坎坷而难忘的追梦之路
