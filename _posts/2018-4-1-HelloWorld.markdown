@@ -11,7 +11,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 Hello World
 
-```cpp
+```javascript
 #include <iostream>
 #include <cstdio>
 #include <cstring>
