@@ -20,3 +20,5 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 [~~Re~~AKfun](http://www.cnblogs.com/refun/)
 
 [人赢Slr昊哥](https://blog.csdn.net/Slr2002/article/list/2)
+
+[~~大哥~~秋日私语]
