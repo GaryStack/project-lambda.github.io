@@ -5,7 +5,7 @@ date: 2018-4-1
 categories:
   - 我是神
 description: 我就是神
-image: https://picsum.photos/2000/1200?image=1003
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/08.jpg?raw=true
 image-sm: https://picsum.photos/500/300?image=1003
 ---
 
