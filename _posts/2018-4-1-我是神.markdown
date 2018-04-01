@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "我是神"
+title: "Hello World"
 date: 2018-4-1
 categories:
-  - 我是神
-description: 我就是神
+  - Hello World
+description: Hello World
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/08.jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/08.jpg?raw=true
 ---
 
-我是神！
+Hello World
