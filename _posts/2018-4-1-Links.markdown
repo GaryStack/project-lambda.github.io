@@ -10,7 +10,13 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 ---
 
 [xMinh](https://xminh.github.io)
+
 [Cansult](https://www.cansult.ga/)
+
 [针织制衣厂](https://www.luogu.org/blog/user52892/)
+
 [手肝AI的Asia](http://www.cnblogs.com/victorique/)
+
 [~~Re~~AKfun](http://www.cnblogs.com/refun/)
+
+[人赢Slr昊哥](https://blog.csdn.net/Slr2002/article/list/2)
