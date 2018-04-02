@@ -9,11 +9,14 @@ image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg.jpg?raw=true
 ---
 
-# Class  Two  Fover 
-——————————————————————
+# _Class  Two  Fover_ 
+___
 
 ## 温暖的过客？
 
  不
 
 ### 永恒的回恋
+
+
+-
