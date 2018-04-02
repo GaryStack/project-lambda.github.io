@@ -19,9 +19,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
    		
 		可并堆—>不会
    		
-		树状数组—>好像线段树就OK吧，但树状数组常熟小啊
-   
-   		分块:
+		树状数组—>好像线段树就OK吧，但树状数组常数小啊
 		
 		可持久化思想
 
