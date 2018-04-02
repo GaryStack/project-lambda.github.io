@@ -31,21 +31,8 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
    		
 		可持久化思想
    
-2、图论：
 	
-  		
-		2—SAT
-	
- 		Tarjan
-	
-		网络流： 最小割，最大流（掌握的不错），二分图之类的东西，费用流
-	
- 		分层图什么的，不会
-	
-  		割点、边，桥啥的，只会打板子，一道题都没做过
-		
-	
-3、DP：
+2、DP：
 
   DP类型：
     
@@ -72,6 +59,23 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
     		四边形不等式优化—>好像没啥用啊
 	  
     		改变DP顺序优化DP
+
+
+3、图论：
+	
+  		
+		2—SAT
+	
+ 		Tarjan
+	
+		网络流： 最小割，最大流（掌握的不错），二分图之类的东西，费用流
+	
+ 		分层图什么的，不会
+	
+  		割点、边，桥啥的，只会打板子，一道题都没做过
+		
+
+
 4、数学：
 	  
     		基础：gcd，lcm，费马小定理，逆元，扩欧，欧拉函数
@@ -96,6 +100,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
     		FFT等数学典型题型
 
+
 5、字符串相关：
 	  
     		KMP：这是NOIP算法吧
@@ -108,12 +113,14 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
     		Hash：不会
 
+
 6、分治：
 	
     		CDQ分治
 	
     		整体二分
   
+
 7、基本算法：
 	
     		位运算——这东西应该有好多好多的比较神的用法
@@ -121,5 +128,6 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
     		倍增
 	  
     		贪心——反正没思路就贪心呗
+
 
 8、构造与交互题是smg
