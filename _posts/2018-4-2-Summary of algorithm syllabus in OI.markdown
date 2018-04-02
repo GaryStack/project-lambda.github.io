@@ -9,7 +9,7 @@ image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/O
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/12276358_1341816675947.jpg?raw=true
 ---
 
-#数据结构：#
+1、数据结构：
 		
 		Splay—>
 
