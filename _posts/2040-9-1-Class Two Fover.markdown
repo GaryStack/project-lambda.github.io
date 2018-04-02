@@ -11,6 +11,6 @@ image-sm: https:https://github.com/GaryStack/GaryStack.github.io/blob/master/bac
 
 ## 温暖的过客？
 
-# 不
+ 不
 
 ### 永恒的回恋
