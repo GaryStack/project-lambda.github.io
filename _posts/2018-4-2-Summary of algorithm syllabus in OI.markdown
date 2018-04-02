@@ -72,6 +72,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
  			分层图什么的，不会
 	
+	
   		割点、边，桥啥的，只会打板子，一道题都没做过
 		
 
