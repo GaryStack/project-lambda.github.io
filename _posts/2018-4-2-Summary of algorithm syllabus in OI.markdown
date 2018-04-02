@@ -3,7 +3,7 @@ layout: post
 title: "Summary of algorithm syllabus in OI"
 date: 2018-4-1
 categories:
-  计划
+  -计划
 description: 反正我都不会
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/12276358_1341816675947.jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/12276358_1341816675947.jpg?raw=true
