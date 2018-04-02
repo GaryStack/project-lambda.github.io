@@ -9,7 +9,7 @@ image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(4).jpg?raw=true
 ---
 
-### 谨以此文记录只属于22班的回忆
+### _谨以此文记录只属于22班的回忆_
 
 想知道上面的那个
 
