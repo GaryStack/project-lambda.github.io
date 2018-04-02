@@ -33,7 +33,8 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
    
 2、图论：
 	
-  		2—SAT
+  		
+		2—SAT
 	
  		Tarjan
 	
