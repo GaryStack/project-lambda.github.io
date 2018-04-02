@@ -8,6 +8,8 @@ description: Summary of algorithm syllabus in OI
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/555561.jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/555561.jpg?raw=true
 ---
+
+
 ##数据结构：
 
    		
