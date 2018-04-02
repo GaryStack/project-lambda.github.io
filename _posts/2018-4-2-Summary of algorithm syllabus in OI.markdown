@@ -66,11 +66,11 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
   		
 		2—SAT
 	
- 		Tarjan
+ 			Tarjan
 	
 		网络流： 最小割，最大流（掌握的不错），二分图之类的东西，费用流
 	
- 		分层图什么的，不会
+ 			分层图什么的，不会
 	
   		割点、边，桥啥的，只会打板子，一道题都没做过
 		
