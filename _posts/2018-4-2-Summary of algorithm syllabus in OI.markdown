@@ -55,23 +55,6 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	  
     		改变DP顺序优化DP
 
-
-3、图论：
-		
-  		
-		2—SAT
-		
- 		Tarjan
-		
-		网络流： 最小割，最大流（掌握的不错），二分图之类的东西，费用流
-		
- 		分层图什么的，不会
-		
-		
-  		割点、边，桥啥的，只会打板子，一道题都没做过
-		
-		
-		
 4、数学：
 	  
     		基础：gcd，lcm，费马小定理，逆元，扩欧，欧拉函数
