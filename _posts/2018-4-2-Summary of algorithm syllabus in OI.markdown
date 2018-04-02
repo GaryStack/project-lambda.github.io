@@ -8,12 +8,6 @@ description: Summary of algorithm syllabus in OI
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/555561.jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/555561.jpg?raw=true
 ---
-反正我参加不了省选，就计划一下之后的路吧
-
-首先省选之前学了好多新的东西，然后DP的练习就断了
-
-那，他们省选的那两天，我准备没日没夜的集中突破DP（能突破到哪算哪吧）
-
 1、数据结构：
 
    		
