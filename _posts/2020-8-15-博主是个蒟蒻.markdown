@@ -10,6 +10,6 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 ---
 
 高一才开始学OI的蒟蒻
-    被机房金牌爷[Refun]() 集训队爷[Diesheep]()
+    被机房金牌爷[Refun](http://www.cnblogs.com/refun/) 集训队爷[Diesheep](https://a-failure.github.io/)
     吊打的体无完肤
 博主太菜，题解肯定不好啊，就别看了
