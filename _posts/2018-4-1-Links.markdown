@@ -31,4 +31,4 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 [ZYF_Tree创始人](https://beretty.github.io/)
 
-[坠神女选手][https://milky-w.github.io/]
+[坠神女选手](https://milky-w.github.io/)
