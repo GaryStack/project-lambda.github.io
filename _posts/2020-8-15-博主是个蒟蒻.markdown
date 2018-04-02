@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Hello World"
+title: "About Me"
 date: 2018-4-1
 categories:
-  HelloWorld
-description: Hello World
-image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(2).jpg?raw=true
-image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(2).jpg?raw=true
+  OI
+description: OI
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/QQ%E6%88%AA%E5%9B%BE20180402182312.png?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/QQ%E6%88%AA%E5%9B%BE20180402182312.png?raw=true
 ---
 
 高一才开始学OI的蒟蒻
