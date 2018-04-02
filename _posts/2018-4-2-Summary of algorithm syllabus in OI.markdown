@@ -8,7 +8,7 @@ description: Summary of algorithm syllabus in OI
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/555561.jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/555561.jpg?raw=true
 ---
-1、数据结构：
+##数据结构：
 
    		
 		Splay—>实际上我的Splay还并没有掌握到可以拿来当工具（即不属于算法）的地步得尽快达到这个地步
@@ -25,7 +25,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
    		
 		可持久化思想
 	
-2、DP：
+##DP：
 
   DP类型：
     
@@ -54,7 +54,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
     		改变DP顺序优化DP
 
 
-3、图论：
+##图论：
 	
   		
 		2—SAT
@@ -70,7 +70,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 		
 
 
-4、数学：
+##数学：
 	  
     		基础：gcd，lcm，费马小定理，逆元，扩欧，欧拉函数
 	  
@@ -95,7 +95,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
     		FFT等数学典型题型
 
 
-5、字符串相关：
+##字符串相关：
 	  
     		KMP：这是NOIP算法吧
 	
@@ -108,14 +108,14 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
     		Hash：不会
 
 
-6、分治：
+##分治：
 	
     		CDQ分治
 	
     		整体二分
   
 
-7、基本算法：
+##基本算法：
 	
     		位运算——这东西应该有好多好多的比较神的用法
 	  
@@ -124,4 +124,4 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
     		贪心——反正没思路就贪心呗
 
 
-8、构造与交互题是smg
+##构造与交互题是smg
