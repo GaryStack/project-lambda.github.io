@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Hello World"
+date: 2018-4-1
+categories:
+  HelloWorld
+description: Hello World
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(2).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(2).jpg?raw=true
+---
+
+高一才开始学OI的蒟蒻
+    被机房金牌爷[Refun]() 集训队爷[Diesheep]()
+    吊打的体无完肤
+博主太菜，题解肯定不好啊，就别看了
