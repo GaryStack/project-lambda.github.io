@@ -9,9 +9,10 @@ image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/QQ%E6%88%AA%E5%9B%BE20180402182312.png?raw=true
 ---
 
-高一才开始学OI的蒟蒻
+高一才开始学OI的    
+### 蒟蒻
  
-    被机房金牌爷[Refun](http://www.cnblogs.com/refun/) 集训队爷[Diesheep](https://a-failure.github.io/)
+    被机房金牌爷[Refun](http://www.cnblogs.com/refun/) 集训队爷[Diesheep](https://a-failure.github.io/)
     吊打的体无完肤
 
 博主太菜，题解肯定不好啊，~~就别看了~~
