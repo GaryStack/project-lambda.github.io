@@ -3,7 +3,7 @@ layout: post
 title: "Summary of algorithm syllabus in OI"
 date: 2018-4-1
 categories:
-  - 计划
+  计划
 description: 反正我都不会
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/12276358_1341816675947.jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/12276358_1341816675947.jpg?raw=true
@@ -11,7 +11,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 1、数据结构：
 		
-		Splay—>实际上我的Splay还并没有掌握到可以拿来当工具（即不属于算法）的地步得尽快达到这个地步
+		Splay—>
 
 		线段树—>感觉这是我掌握的不错的一个数据结构了，已经可以当工具来用了
    		
