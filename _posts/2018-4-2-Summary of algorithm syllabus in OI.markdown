@@ -42,7 +42,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ### 3、DP：
 	
-	## DP类型：
+## DP类型：
 		
 		背包
 		
@@ -58,7 +58,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
 		插头DP
 		
-	## DP优化：
+## DP优化：
 		
 		斜率优化—>全都是板子
 	
