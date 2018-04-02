@@ -10,7 +10,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 ---
 <!--more-->
 
-1、数据结构：
+### 1、数据结构：
 		
 		Splay—>
 
@@ -26,7 +26,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 <!--more-->
 
-2、图论：
+### 2、图论：
 		
 		2—SAT
 		
@@ -40,9 +40,9 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 <!--more-->
 
-3、DP：
+### 3、DP：
 	
-	DP类型：
+	## DP类型：
 		
 		背包
 		
@@ -58,7 +58,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
 		插头DP
 		
-	DP优化：
+	## DP优化：
 		
 		斜率优化—>全都是板子
 	
@@ -70,7 +70,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 <!--more-->
 
-4、数学：
+### 4、数学：
 	
 		基础：gcd，lcm，费马小定理，逆元，扩欧，欧拉函数
 	
@@ -96,7 +96,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
 <!--more-->
 
-5、字符串相关：
+### 5、字符串相关：
 		
 		KMP：这是NOIP算法吧
 		
@@ -110,7 +110,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 <!--more-->
 
-6、分治：
+### 6、分治：
 	
 		CDQ分治
 	
@@ -118,7 +118,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 		
 <!--more-->
 
-7、基本算法：
+### 7、基本算法：
 		
 		位运算——这东西应该有好多好多的比较神的用法
 		
@@ -128,4 +128,4 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 <!--more-->
 
-8、构造与交互题是smg
+### 8、构造与交互题是smg
