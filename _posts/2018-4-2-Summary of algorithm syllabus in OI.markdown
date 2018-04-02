@@ -42,8 +42,9 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ### DP：
 	
- ## DP类型：
-		
+   DP类型：
+___________________________		
+
 		背包
 		
 		基本线性DP/区间DP
@@ -58,8 +59,9 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 	
 		插头DP
 		
- ## DP优化：
-		
+   DP优化：
+_________________________
+
 		斜率优化—>全都是板子
 	
 		单调队列优化—>主要是要求被弹掉的决策是不会在成为最优决策的
