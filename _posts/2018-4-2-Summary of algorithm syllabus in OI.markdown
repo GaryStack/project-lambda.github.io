@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary of algorithm syllabus in OI"
-date: 2018-4-1
+date: 2018-4-2
 categories:
 -反正我都不会（逃
 description: Summary of algorithm syllabus in OI
