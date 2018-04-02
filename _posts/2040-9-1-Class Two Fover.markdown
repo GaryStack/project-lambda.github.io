@@ -6,7 +6,7 @@ categories:
   ClassTwoFover
 description: 情怀
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg.jpg?raw=true
-image-sm: https:https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg.jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg.jpg?raw=true
 ---
 
 ## 温暖的过客？
