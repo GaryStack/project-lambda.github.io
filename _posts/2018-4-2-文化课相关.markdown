@@ -10,6 +10,8 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 ---
 我不想学文化课
 
+本文持续更新
+
 _谨以此文记录本蒟蒻对于文化课的理解_
 
 _OIer了解一下_
@@ -29,3 +31,20 @@ _OIer了解一下_
 ~~学习好不是成功，膜Refun才是王道~~
     
 # Gary_Stack 关于各个科目的理解
+
+## 物理
+
+## 化学
+
+## 数学
+
+## 英语
+
+## 地理
+
+## 历史
+
+## 政治
+
+        这个我没有发言权啊，自行去膜某位 Time Master
+        
