@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chemistry"
+title: "Chemistry"
 date: 2018-4-1
 categories:
   - 文化课
