@@ -8,6 +8,6 @@ description: 都是抄的
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
 ---
-## [题目链接]（https://www.luogu.org/problemnew/show/P2757）
+## [题目链接](https://www.luogu.org/problemnew/show/P2757)
 
 # 题目大意
