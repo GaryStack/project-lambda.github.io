@@ -20,6 +20,18 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ---
 
+---
+layout: post
+title: "literacy class"
+date: 2018-4-1
+categories:
+  - 文化课
+description: 窝不想学文化课
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+
+---
+
 我不想学文化课
 
 本文持续更新
@@ -61,9 +73,9 @@ _OIer了解一下_
       对于压强，老师口胡了一些浓度的做法，~~可惜我没听课错过了~~.
 
       然后我就瞎胡了个做法（dalao勿喷）：
- 
-      _先考虑简单情况 设a+b<c+d（a,b,c,d均为化学计量数），且反应物生成物均为气体.因为质量守恒，所以增加压强实际上是减小了体积，要想让压强回               
-      去，就是让体积再变大呀，那就是让a+b的一边的反应加快(假设此时温度不变).即 V正>V逆，就OK了._
+      ​      
+      *先考虑简单情况 设a+b<c+d（a,b,c,d均为化学计量数），且反应物生成物均为气体.因为质量守恒，所以增加压强实际上是减小了体积，要想让压强回*               
+      *去，就是让体积再变大呀，那就是让a+b的一边的反应加快(假设此时温度不变).即 V正>V逆，就OK了.*
 
 - [x] 2018-4-14
 
