@@ -8,3 +8,120 @@ description: 都是抄的
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
 ---
+
+
+## [ 题目链接](https://www.luogu.org/problemnew/show/P3118)
+
+题目大意：自己看链接吧
+
+## 输入输出样例
+
+**输入样例**
+
+4 100 
+
+50 3 15 30 55 
+
+40 2 0 65 
+
+30 2 20 90 
+
+20 1 0 
+
+**输出样例**
+
+3
+
+下面的不是题解，只是蒟蒻的思考问题的整个过程（重说三）：
+
+~~我才不会告诉你我是边想边写的，可能有语法错误~~
+
+n<=20，首先考虑状压dp
+
+f[i]表示选择状态是i的连续最大看电影时间是多少
+
+预处理每个状态的选择电影次数
+
+然后一个电影多个场次，难道每个场次都要多拆出来一个决策点吗？
+
+场次有1000的，但实际上这么多场里面只能选择一场电影来观看，所以一定有优化的方案……
+
+考虑场次虽然说是有重叠的，但是对于当前的决策点，显然要是选择这个类别的电影的话
+
+是要贪心的选择当前正在放映的最晚的(包括这一时刻恰巧开始放映的电影)
+
+上面这行的正确性挺好想的，~~想不通的可以私信我呀~~
+
+预处理的东西：
+1、每个状态的选择电影次数
+2、某个时刻选择某个电影的最晚放映时间(空间有问题)可以考虑当前状态为i的情况下，选择某个类型电影的最晚放映时间 `2^20*logL`(L为时间值域)
+
+然鹅第二个预处理好像并没有必要啊，因为每个状态查询次数不多，log的二分就行了
+
+代码：
+
+```cpp
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+#include <algorithm>
+#define MAXN 22
+#define M 1010
+#define inf 0x7fffff
+
+using namespace std;
+
+int n,m,S,f[1<<MAXN],ans=inf;
+int len[MAXN],p[MAXN],c[MAXN][M],val[1<<MAXN];
+
+int lowbit(int x){return x&(-x);}
+
+int find(int x,int id)
+{
+	int l=-1,r=p[id]-1,mid,ans;
+	while(l<r)
+	{
+		int mid=l+r+1>>1;
+		if(c[id][mid]<=x)l=mid;
+		else r=mid-1;
+	}
+	return l;
+}
+
+int main()
+{
+	scanf("%d%d",&n,&m),S=1<<n;
+	for(int i=0;i<n;i++)
+	{
+		scanf("%d%d",&len[i],&p[i]);
+		for(int j=0;j<p[i];j++) scanf("%d",&c[i][j]);
+	}
+	for(int i=0;i<S;i++)
+	{
+		int num=0;
+		for(int j=i;j;j-=lowbit(j)) num++;
+		val[i]=num;
+	}
+	for(int i=0;i<S;i++)
+	{
+		if(f[i]==-1) continue;
+		if(f[i]>=m)
+		{
+			ans=min(ans,val[i]);
+			continue;
+		}
+		for(int j=0;j<n;j++)
+		{
+			if(i&(1<<j)) continue;
+			int k=find(f[i],j);
+			if(k==-1) continue;
+			f[i|(1<<j)]=max(f[i|(1<<j)],c[j][k]+len[j]);
+		}
+	}
+	printf("%d\n",ans==inf?-1:ans);
+	return 0;
+}
+```
+
+——By 10天+没A题的GaryStack
+
