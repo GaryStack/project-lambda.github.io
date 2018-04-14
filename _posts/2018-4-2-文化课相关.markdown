@@ -42,7 +42,7 @@ _OIer了解一下_
 
 ### 化学
 
--[x] 2018-4-13 本蒟蒻的老师将了一下化学平衡的移动.感觉有一句话玄妙的很（写出来分享一下）：
+- [x] 2018-4-13 本蒟蒻的老师将了一下化学平衡的移动.感觉有一句话玄妙的很（写出来分享一下）：
 
   化学平衡的移动实际上就是尽可能的消除外界的影响
 
@@ -52,7 +52,7 @@ _OIer了解一下_
 
   然后我就瞎胡了个做法（dalao勿喷）：
 
-_先考虑简单情况 设<a href="http://www.codecogs.com/eqnedit.php?latex=a&plus;b<c&plus;d" target="_blank"><img src="http://latex.codecogs.com/gif.latex?a&plus;b<c&plus;d" title="a+b<c+d" /></a>（a,b,c,d均为化学计量数），且反应物生成物均为气体.因为质量守恒，所以增加压强实际上是减小了体积，要想让压强回去，就是让体积再变大呀，那就是让a+b的一边的反应加快(假设此时温度不变).即<a href="http://www.codecogs.com/eqnedit.php?latex={\color{Green}&space;_V{正}>^{_V{逆}}}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?{\color{Green}&space;_V{正}>^{_V{逆}}}" title="{\color{Green} _V{正}>^{_V{逆}}}" /></a>，就OK了._
+_先考虑简单情况 设$a+b<c+d$（a,b,c,d均为化学计量数），且反应物生成物均为气体.因为质量守恒，所以增加压强实际上是减小了体积，要想让压强回去，就是让体积再变大呀，那就是让a+b的一边的反应加快(假设此时温度不变).即$V正>V逆$，就OK了._
 
 -[x] 2018-4-14
 
@@ -67,6 +67,5 @@ _先考虑简单情况 设<a href="http://www.codecogs.com/eqnedit.php?latex=a&p
 ### 政治
 
         这个我没有发言权啊，自行去膜某位 Time Master
-
 
 
