@@ -5,8 +5,8 @@ date: 2018-4-1
 categories:
   - Test
 description: Test
-image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/u=1884576976,2799512635&fm=27&gp=0.jpg?raw=true
-image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/u=1884576976,2799512635&fm=27&gp=0.jpg?raw=true
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(3).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(3).jpg?raw=true
 ---
 
 # GaryStack
