@@ -10,7 +10,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 ---
 ## [题目链接](https://www.luogu.org/problemnew/show/P2757)
 
-# 题目大意
+## 题目大意
 
 给定一个长度为n的序列，询问序列中是否存在下标上升三个数a,b,c使c-b=b-a，即等差数列，多组数据
 
