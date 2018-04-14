@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary of algorithm syllabus in OI"
-date: 2025-4-1
+date: 2025-7-1
 categories:
   OI
 description: 反正我都不会
