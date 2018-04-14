@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Physics"
+date: 2018-4-1
+categories:
+  - 文化课
+description: 我Gary物理垫底
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+---
+
+- [x] 关于电场中的几个量：
+
+
+  ~~感觉学得好乱呀~~
+
+
+​			**电量**
+
+​			**电场强度**
+
+​			**电场力**
+
+​			**电势能**
+
+​			**电势**
+
+​			**电场力做的功？**
