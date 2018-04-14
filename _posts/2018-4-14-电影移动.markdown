@@ -5,8 +5,8 @@ date: 2018-4-1
 categories:
   - 题解
 description: 都是抄的
-image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
-image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
+image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1519729439396&di=7691f661fa5418c0290c9d808e5af748&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2Fc%2F573c1c3b6ba33.jpg
+image-sm: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1519729439396&di=7691f661fa5418c0290c9d808e5af748&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2Fc%2F573c1c3b6ba33.jpg
 ---
 
 
