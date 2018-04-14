@@ -8,6 +8,18 @@ description: 窝不想学文化课
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
 ---
+---
+layout: post
+title: "literacy class"
+date: 2018-4-1
+categories:
+  - 文化课
+description: 窝不想学文化课
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+
+---
+
 我不想学文化课
 
 本文持续更新
@@ -26,7 +38,6 @@ _OIer了解一下_
   <li>当然了，最重要的是心态，天崩地崩心态不能崩</li>
     
 
-
 上面的不是最重要的，谨记：日%Refun,神清气爽！！
 
 </ul>
@@ -34,7 +45,6 @@ _OIer了解一下_
 ~~学习好不是成功，膜Refun才是王道~~
 
 给出[Refun](http://www.cnblogs.com/refun/)的blog，没事来就来膜啊，感觉Rp++
-
 
 ## Gary_Stack 关于各个科目的理解
 
@@ -44,15 +54,16 @@ _OIer了解一下_
 
 - [x] 2018-4-13 本蒟蒻的老师将了一下化学平衡的移动.感觉有一句话玄妙的很（写出来分享一下）：
 
-     _化学平衡的移动实际上就是尽可能的消除外界的影响_
-        
-     老师大致上讲了几个例子（温度，浓度，压强，催化剂）的影响.感觉除了压强其他的都很资磁啊(flag×1)
-        
-     对于压强，老师口胡了一些浓度的做法，~~可惜我没听课错过了~~.
-        
-     然后我就瞎胡了个做法（dalao勿喷）：
-           
-     _先考虑简单情况 设a+b<c+d（a,b,c,d均为化学计量数），且反应物生成物均为气体.因为质量守恒，所以增加压强实际上是减小了体积，要想让压强回去，就是       让体积再变大呀，那就是让a+b的一边的反应加快(假设此时温度不变).即 V正>V逆，就OK了._
+      *化学平衡的移动实际上就是尽可能的消除外界的影响*
+
+      老师大致上讲了几个例子（温度，浓度，压强，催化剂）的影响.感觉除了压强其他的都很资磁啊(flag×1)
+
+      对于压强，老师口胡了一些浓度的做法，~~可惜我没听课错过了~~.
+
+      然后我就瞎胡了个做法（dalao勿喷）：
+      ​      
+      _先考虑简单情况 设a+b<c+d（a,b,c,d均为化学计量数），且反应物生成物均为气体.因为质量守恒，所以增加压强实际上是减小了体积，要想让压强回               
+      去，就是让体积再变大呀，那就是让a+b的一边的反应加快(假设此时温度不变).即 V正>V逆，就OK了._
 
 - [x] 2018-4-14
 
