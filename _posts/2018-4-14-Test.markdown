@@ -1,0 +1,32 @@
+---
+layout: post
+title: "literacy class"
+date: 2018-4-1
+categories:
+  - Test
+description: Test
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(1).jpg?raw=true
+---
+
+# GaryStack
+
+## GaryStack
+
+### GaryStack
+
+~~我真是个**神**！~~
+
+*Refun太强了*
+
+```cpp
+#include<iostream>
+using namespace std;
+```
+
+$xMinh$
+
+$a=b%2$
+
+$a=b/c$
+
