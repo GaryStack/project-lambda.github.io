@@ -1,0 +1,10 @@
+---
+layout: post
+title: "chemistry"
+date: 2018-4-1
+categories:
+  - 文化课
+description: 我不会化学
+image: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1844839105,3439195414&fm=27&gp=0.jpg
+image-sm:https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1844839105,3439195414&fm=27&gp=0.jpg
+---
