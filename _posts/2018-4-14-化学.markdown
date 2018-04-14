@@ -5,8 +5,10 @@ date: 2018-4-1
 categories:
   - 文化课
 description: 我不会化学
-image: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1844839105,3439195414&fm=27&gp=0.jpg
-image-sm: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1844839105,3439195414&fm=27&gp=0.jpg
+image: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1953552311,864954066&fm=27&gp=0.jpg
+
+image-sm: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1953552311,864954066&fm=27&gp=0.jpg
+
 ---
 - [x] 2018-4-13 本蒟蒻的老师将了一下化学平衡的移动.感觉有一句话玄妙的很（写出来分享一下）：
 
