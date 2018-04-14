@@ -1,0 +1,10 @@
+---
+layout: post
+title: "[国家集训队]等差子序列"
+date: 2018-4-1
+categories:
+  - 题解
+description: 都是抄的
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%9D%82/timg%20(4).jpg?raw=true
+---
