@@ -129,3 +129,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 <!--more-->
 
 ### 构造与交互题是smg
+
+转了一个dalao的水题推荐[csyzcyj](https://blog.csdn.net/csyzcyj/article/details/9343379)
+
+最喜欢~~水题了~~
