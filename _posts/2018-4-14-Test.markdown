@@ -15,7 +15,6 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ### GaryStack
 
-~~我真是个**神**！~~
 
 *Refun太强了*
 
