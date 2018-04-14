@@ -12,7 +12,9 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 # 题目大意
 
-给定一个长度为n的序列，询问序列中是否存在下标上升三个数a,b,c使c-b=b-a，即等差数列
+给定一个长度为n的序列，询问序列中是否存在下标上升三个数a,b,c使c-b=b-a，即等差数列，多组数据
+
+其中`n<10^5`(luogu数据`10^4`)，`T<7`
 
 ## 输入输出样例
 ### 输入样例
