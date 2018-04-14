@@ -36,59 +36,6 @@ Y
 
 先贴个代码，改天再来补题解
 
-```cpp
-#include<cstdio>
-#include<cstring>
-#include<algorithm>
-#include<iostream>
-#define N 10010
-using namespace std;
-int t,n,x,power[N];
-int const mod=1000000007;
-struct Tree{
-	int c[N];
-	void clear(){memset(c,0,sizeof(c));}
-	void add(int pos)
-	{
-		for(int i=pos;i<=n;i+=(i&-i))
-		c[i]=(c[i]+power[i-pos])%mod;
-    }
-    int q(int pos)
-	{
-		int rt=0;
-		for(int i=pos;i;i-=(i&-i))
-		rt=((long long)c[i]*power[pos-i]+rt)%mod;
-		return rt;
-	}
-	int query(int l,int r){
-		int xx=q(r),yy=q(l-1);
-		return (xx-(long long)yy*power[r-l+1]%mod+mod)%mod;
-	}
-};
-Tree tr1,tr2;
-int main()
-{
-    scanf("%d",&t); power[0]=1;
-	for(int i=1;i<N;i++)power[i]=(power[i-1]*2)%mod;
-	while(t--)
-	{
-		tr1.clear();tr2.clear();
-		scanf("%d",&n);
-		int i,flag=0;
-		for(i=1;i<=n;i++)
-		{
-			scanf("%d",&x);
-			int len=min(x-1,n-x);
-			if(len&&tr1.query(x-len,x-1)!=tr2.query(n-x-len+1,n-x))
-				flag=1;
-			tr1.add(x); tr2.add(n-x+1);
-		}
-		if(flag==1)printf("Y\n");
-		else printf("N\n");
-	}
-    return 0;
-}
-```
-
+[代码](https://paste.ubuntu.com/p/k3Ykn7MDbh/)
 
 
