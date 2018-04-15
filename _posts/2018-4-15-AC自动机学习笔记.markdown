@@ -5,8 +5,8 @@ date: 2018-4-15
 categories:
   - OI
 description: 都是抄的
-image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/u=1936805858,3420117625&fm=27&gp=0.jpg?raw=true
-image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/u=1936805858,3420117625&fm=27&gp=0.jpg?raw=true
+image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/t01f8fccaef8f3c914a.jpg?raw=true
+image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/Other/%E9%9D%9E%E5%8A%A8%E6%BC%AB/t01f8fccaef8f3c914a.jpg?raw=true
 ---
 
 ## 预备知识：KMP和Tire树
