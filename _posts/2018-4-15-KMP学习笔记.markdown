@@ -171,3 +171,5 @@ int main()
 ```
 
 ### 脑洞进阶
+
+[SYCstudio大佬blog的动图解释](http://www.cnblogs.com/SYCstudio/p/7194315.html)
