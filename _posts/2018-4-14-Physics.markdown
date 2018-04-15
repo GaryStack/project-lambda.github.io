@@ -86,4 +86,4 @@ image-sm: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwc
 
 - ##### 两个异种（不）等量电荷周围的电场强度和电势变化图
 
-掌握上面两个点(公式+画图)，电场就OK了吧，
+掌握上面两个点(公式+画图)，电场就OK了吧（`flag×1`）。
