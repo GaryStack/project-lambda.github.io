@@ -16,7 +16,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 KMP可以以$\mathrm O(n + m)$的复杂度解决字符串的匹配问题
 
-在普通的字符串匹配中, $B$串一旦在某一位(比如说第$i$位)上与$A$不一样, 就需要从头开始匹配$B$串, 这样最坏的复杂度是$\mathrm O(m + n)$的
+在普通的字符串匹配中, $B$串一旦在某一位(比如说第$i$位)上与$A$不一样, 就需要从头开始匹配$B$串, 这样最坏的复杂度是`O(nm)`的
 
 优化的一般思想都是利用重复的信息, 我们发现, 既然$B$在第$i$位与$A$失配了, 那么其实$B$的前$i - 1$位都是和$A$匹配的, 我们可以利用这个来优化
 
@@ -26,8 +26,8 @@ KMP可以以$\mathrm O(n + m)$的复杂度解决字符串的匹配问题
 
 ### 预处理
 
-$p[i]$的意义: 在$B$的前$i$位, 最长的[前缀与后缀相等的长度], 
-也就是$(b[0] \to b[p[i]]) = (b[i - p[i]] \to b[i - 1])$ (不要在意边界...大体意思懂了就好... = =+)
+`p[i]`的意义: 在`B`的前`i`位, 最长的[前缀与后缀相等的长度], 
+也就是`(b[0]~b[p[i]])=b[i-p[i]]~b[i-1])` (不要在意边界...大体意思懂了就好... = =)
 
 ```cpp
 n=strlen(a);
@@ -42,18 +42,18 @@ for(int i=1;i<m;i++)
 }
 ```
 
-这个是什么意思呢...我们在预处理$p[]$...但是怎么预处理呢...肯定不能直接暴力匹配...那就$n^2$了是不...
+这个是什么意思呢...我们在预处理`p[i]`..但是怎么预处理呢...肯定不能直接暴力匹配...那就`n^2`了是不...
 
-#### $j = p[i]$
+#### `j=p[i]`
 
 ![预处理](http://img.blog.csdn.net/20180402163559816?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQ2Fuc3VsdA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-上图中, 蓝色的部分是已经确定的 前缀 == 后缀 长度, 当前匹配的是绿色的部分, 后半部分的绿色点是$i++$后得到的
-, 前面的绿色点是$j = p[i]$得到的
+上图中, 蓝色的部分是已经确定的 前缀 == 后缀 长度, 当前匹配的是绿色的部分, 后半部分的绿色点是`i++`后得到的
+, 前面的绿色点是`j=p[i]`得到的
 
-现在就是要匹配第$i$位和第$j$位, 如果能匹配成功当然好, 直接把$p[i + 1] = p[i] + 1$即可
+现在就是要匹配第`i`位和第`j`位, 如果能匹配成功当然好, 直接把`p[i + 1] = p[i] + 1`即可
 
-#### $while (j \&\& b[j] != b[i]) \,\, j = p[j]$
+#### `while (j && b[j]!=b[i]) j=p[j]`
 
 ![失配: 预处理](http://img.blog.csdn.net/20180402164508994?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQ2Fuc3VsdA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -100,7 +100,7 @@ for(int i=0;i<n;i++)
 }
 ```
 
-#### $while (j \&\&a[i] != b[j])\,\, j = p[j]$
+#### `while (j && a[i]=b[j]) j=p[j]`
 
 ![失配: 匹配中](http://img.blog.csdn.net/20180402165629915?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQ2Fuc3VsdA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -116,7 +116,7 @@ $$
 $$
 于是我们又省了一堆匹配...直接从2的结尾开始匹配绿色的1就好了
 
-#### $j=p[j]$
+#### `j=p[j]`
 
 不得不说...xMinh跟我说不理解这个地方的时候还是挺吃惊的...这个的意思呢, 就是你kmp匹配, 不能光找出第一个匹配的串啊, 还得找出来后面那些是匹配的啊
 
