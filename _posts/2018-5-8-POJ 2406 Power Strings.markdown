@@ -5,8 +5,8 @@ date: 2018-5-8
 categories:
   - 题解
 description: 都是抄的
-image: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3812345153,2871383670&fm=27&gp=0.jpg
-image-sm: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3812345153,2871383670&fm=27&gp=0.jpg
+image: https://img02.sogoucdn.com/app/a/100520024/e407dd38608e7cb17651f86a3b81f9fb
+image-sm: https://img02.sogoucdn.com/app/a/100520024/e407dd38608e7cb17651f86a3b81f9fb
 ---
 
 
