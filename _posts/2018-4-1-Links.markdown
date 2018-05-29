@@ -9,7 +9,7 @@ image: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/15.jpg?r
 image-sm: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/15.jpg?raw=true
 ---
 
-[坠神女选手](http://www.cnblogs.com/milky-w/)
+[坠神女选手](https://milky-w.github.io/)
 
 [xMinh](https://xminh.github.io)
 
