@@ -22,13 +22,4 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 博主太菜，题解肯定不好啊，~~就别看了~~
 
 
-咦？我九省联考的题
 
-Day1 110
-
-Day2 85
-
-？？
-
-没有资格考试
-好可惜啊（虽然这个成绩可能dalao们直接看不起
