@@ -1,25 +1,24 @@
----
 layout: post
 title: "Problem"
 date: 2020-6-28
 categories:
   - Problem
-description: Problem
+description:大多都是Matrix67 和 33IQ的题目
 image: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(3).jpg?raw=true
 image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/background/%E6%98%9F%E7%A9%BA/timg%20(3).jpg?raw=true
+
+
+可能会在这里放一些比较有趣的题目，不定期更新
+
 ---
 
-#### 可能会在这里放一些比较有趣的题目，不定期更新
-
-------
 
 
+逻辑分析与决策问题
 
-## 逻辑分析与决策问题**
+- 海盗分金币问题
+- 庄家
 
-+ **[海盗分金币问题]()**
-+ ​
-
-## **数学分析？**
+数学分析？
 
 
