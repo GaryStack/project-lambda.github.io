@@ -15,7 +15,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 
 
-## 逻辑分析与决策问题**
+## 逻辑分析与决策问题
 
 + **[海盗分金币问题]()**
 + ​
