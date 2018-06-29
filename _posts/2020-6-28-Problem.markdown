@@ -19,7 +19,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 + #### [**狼吃羊问题**](https://garystack.github.io/2018/06/29/狼吃羊问题/)
 
-+ ### [**双人猜数问题**](https://garystack.github.io/2018/06/29/双人猜数问题/)
++ #### [**双人猜数问题**](https://garystack.github.io/2018/06/29/双人猜数问题/)
 
 ## 决策问题
 
