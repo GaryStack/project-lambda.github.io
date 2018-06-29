@@ -5,8 +5,8 @@ date: 2018-6-29
 categories:
   - 数学分析和证明？
 description: 几个几何证明数学公式的例子"
-image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
-image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+image: https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1530261897&di=adced3b70f2a6e8998ceb1da8366e100&src=http://bpic.ooopic.com/15/55/68/15556889-a92e413bcb60f14bd53912c36718a949.jpg
+image-sm: https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1530261897&di=adced3b70f2a6e8998ceb1da8366e100&src=http://bpic.ooopic.com/15/55/68/15556889-a92e413bcb60f14bd53912c36718a949.jpg
 ---
 
 # 求解奇数的和
