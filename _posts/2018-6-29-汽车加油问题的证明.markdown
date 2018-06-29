@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车加油"
+title: "汽车加油问题的证明"
 date: 2018-6-29
 categories:
   - 数学分析和证明
