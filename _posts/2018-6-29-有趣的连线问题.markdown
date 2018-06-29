@@ -21,9 +21,7 @@ image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/bac
 
 但是为什么可以呢？
 
-方法一：硬画
-
-![](https://cdn.luogu.org/upload/pic/21848.png)
+方法一：硬画，显然是能画出来的，A和C，一个直接连，一个绕着连
 
 方法二：有技巧的~~硬画~~
 
