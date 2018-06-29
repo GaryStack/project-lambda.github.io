@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "庄家的谜题"
-date: 2018-6-29
+title: "汽车加油"
+date: 2018-4-1
 categories:
-  - 决策判断
-description: 庄家的谜题
+  - 数学分析和证明
+description: 汽车加油
 image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
 image-sm:https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
 ---
