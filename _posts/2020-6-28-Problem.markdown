@@ -13,12 +13,15 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ------
 
-## 逻辑分析与决策问题
+## 逻辑分析问题
 
 + #### **[海盗分金币问题](https://garystack.github.io/2018/04/01/海盗分金币问题/)**
 
+
+## 决策问题
+
 + #### [**庄家的秘密**]()
 
-## **数学分析？**
+## 数学分析和证明？
 
 
