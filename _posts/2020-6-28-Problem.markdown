@@ -20,7 +20,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ## 决策问题
 
-+ #### [**庄家的秘题**](https://garystack.github.io/2018/04/01/庄家的谜题/)
++ #### [**庄家的谜题**](https://garystack.github.io/2018/04/01/庄家的谜题/)
 
 ## 数学分析和证明？
 
