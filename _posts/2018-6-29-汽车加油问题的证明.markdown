@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "汽车加油"
-date: 2018-4-1
+date: 2018-6-29
 categories:
   - 数学分析和证明
 description: 汽车加油
