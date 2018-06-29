@@ -31,4 +31,4 @@ image-sm: http://img.zcool.cn/community/013a4456f2626f32f875a944208731.jpg@2o.jp
 
 + #### [**斐波那契数列通项公式**](https://garystack.github.io/2018/06/29/斐波那契数列通项公式/)
 
-+ #### [**几个公式和几何图形间的关系**]()
++ #### [**几个公式和几何图形间的关系**](https://garystack.github.io/2018/06/29/几个几何证明数学公式的栗子/)
