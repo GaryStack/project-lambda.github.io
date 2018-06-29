@@ -17,6 +17,7 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 + #### **[海盗分金币问题](https://garystack.github.io/2018/04/01/海盗分金币问题/)**
 
++ #### [**狼吃羊问题**](https://garystack.github.io/2018/06/29/狼吃羊问题/)
 
 ## 决策问题
 
