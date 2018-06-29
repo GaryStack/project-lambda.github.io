@@ -28,3 +28,5 @@ image-sm: http://img.zcool.cn/community/013a4456f2626f32f875a944208731.jpg@2o.jp
 ## 数学分析和证明？
 
 + #### [**关于汽车加油问题的证明**](https://garystack.github.io/2018/06/29/汽车加油问题的证明/)
+
++ #### [**斐波那契数列通项公式**](https://garystack.github.io/2018/06/29/斐波那契数列通项公式/)
