@@ -6,7 +6,7 @@ categories:
   - 数学分析和证明
 description: 汽车加油
 image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
-image-sm:https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
+image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
 ---
 # 题目大意
 
