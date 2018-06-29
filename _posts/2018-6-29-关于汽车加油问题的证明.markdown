@@ -1,0 +1,45 @@
+---
+layout: post
+title: "关于汽车加油问题的证明"
+date: 2018-4-1
+categories:
+  - 数学分析和证明？
+description: 关于汽车加油问题的证明
+image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
+image-sm:https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/1c4fd43d-e3ca-4dfb-a891-e14ba5af01ea.jpg
+---
+# 题目大意
+
+给定n个加油站，形成了一个环形的道路，每个加油站都会有一个汽油的量（以单位量描述）。
+
+两个汽油站间有一定的路程，一个单位的路程消耗一个单位的汽油。
+
+已知：路程总数<=所有加油站的油量总数，汽车油箱无限大。
+
+试证明总会存在一个点使得从这个点出发能走完一圈。
+
+# Solution
+
+蒟蒻觉得可以用鸽巢原理反证一下。
+
+Orz dalao们的证明：
+
+学长给出的证明：
+
+考虑画一个函数图像，并将函数图像在左边在复制一遍
+
+![](https://s1.ax1x.com/2018/06/29/PiLacj.png)
+
+那走一圈实际上就是从左边函数任选一个点走长度是n的路程就好了。
+
+那么能从起点走到这个点的条件就是这两个点之间所有点都比左端点高，也就sum一直比tot大。
+
+那要做的就是在左边函数选一个这样的点就OK了，显然左边函数的最低点就符合条件。
+
+xMinh给出的证明：
+
+考虑总会存在一个点，使他到下一个点的路程小于这个点的汽油数量，那么就将这个点和这条路径缩成一个点，把剩余的油量加到下一个点里面。
+
+总路程-x，总油量-x，然后仍然是总路程大于总油量，也就是仍然有一个符合条件的点……
+
+这样不断的缩下去最后就只剩了一个点。即可得证，乍一看好像是有问题，但仔细想想是没错的。
