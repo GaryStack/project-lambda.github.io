@@ -5,8 +5,8 @@ date: 2018-4-1
 categories:
   - 逻辑分析问题
 description: 海盗分金币问题
-image: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/15.jpg?raw=true
-image-sm: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/15.jpg?raw=true
+image: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/10.jpg?raw=true
+image-sm: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/10.jpg?raw=true
 ---
 # 题目大意
 
