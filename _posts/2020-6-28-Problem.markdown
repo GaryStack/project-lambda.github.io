@@ -24,4 +24,4 @@ image-sm: https://github.com/GaryStack/GaryStack.github.io/blob/master/backgroun
 
 ## 数学分析和证明？
 
-
++ #### [**关于汽车加油问题的证明**]()
