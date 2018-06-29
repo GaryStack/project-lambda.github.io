@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgr
 image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
 ---
 
-如果下面的图片不清晰的话，可以直接来[我的github](https://github.com/GaryStack/GaryStack.github.io/edit/master/_posts/2018-6-29-有趣的连线问题.markdown)看
+如果下面的图片不清晰的话，可以直接来[我的github](https://github.com/GaryStack/GaryStack.github.io/blob/master/_posts/2018-6-29-有趣的连线问题.markdown)看
 
 # 题目大意
 
