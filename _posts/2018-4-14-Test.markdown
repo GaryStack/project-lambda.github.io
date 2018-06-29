@@ -28,4 +28,4 @@ $xMinh$
 $a=b%2$
 
 $a=b/c$
-
+http://img.zcool.cn/community/013a4456f2626f32f875a944208731.jpg@2o.jpg
