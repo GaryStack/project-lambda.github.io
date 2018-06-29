@@ -1,0 +1,41 @@
+---
+layout: post
+title: "几个几何证明数学公式的栗子"
+date: 2018-6-29
+categories:
+  - 数学分析和证明？
+description: 几个几何证明数学公式的例子"
+image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+---
+
+# 求解奇数的和
+
+1 + 3 + 5 + 7 + 9 = ？
+
+实际上`1 + 3 + 5 + 7 + 9 + ……+2n - 1 =n^2`，几何证明非常显然：
+
+![](http://5b0988e595225.cdn.sohucs.com/images/20170831/1ed2b36b361047079860b3fb42e0287e.jpeg)
+
+# 求解平方求和公式
+
+1^2 + 2^2 +3^2 +……+n^2 = ？
+
+答案 `1^2 + 2^2 +3^2 +……+n^2 = (1/6) × n × (n+2) × (n+1)`
+
+几何的证明是用几何体的体积证明的：
+
+![](http://5b0988e595225.cdn.sohucs.com/images/20170831/0deca42557ae4fddbb9da2da11487322.jpeg)
+
+如果想想不出来的话，推荐看一下这个[视频](http://www.iqiyi.com/w_19rvb0war1.html)
+
+# 求解立方的求和公式
+
+1^3 + 2^3 +3^3 + 4^3 + n^3 =？
+
+答案 `1^3 + 2^3 +3^3 + 4^3 + n^3 = (1/4) × n^2 × (n+1)^2`
+
+证明和平方的有一点像：
+
+![](http://5b0988e595225.cdn.sohucs.com/images/20170831/beb7689ffbea4326bab21e57f257032c.jpeg)
+
