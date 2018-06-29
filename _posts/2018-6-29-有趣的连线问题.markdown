@@ -1,0 +1,46 @@
+---
+layout: post
+title: "有趣的连线问题"
+date: 2018-6-29
+categories:
+  - 数学分析和证明？
+description: 有趣的连线问题
+image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+---
+
+# 题目大意
+
+请看下面这张图片，请问，A、B、C之间是否可以通过互不相交的线连起来？
+
+![](http://www.33iq.com/upload/15/08/01/_thumbs/big/14383847799270.png)
+
+# Solution
+
+按照套路来说，显然是可以的，~~不然我出这道题干啥呢？~~
+
+但是为什么可以呢？
+
+方法一：硬画
+
+![](https://cdn.luogu.org/upload/pic/21848.png)
+
+方法二：有技巧的~~硬画~~
+
+先考虑这样的图
+
+![](http://www.33iq.com/upload/15/08/01/_thumbs/14383848337334.png)
+
+想象A、B、C是用有弹性，可以延展的绳子系在一起的。
+
+那现在要做的就是把C，A移到指定的位置就好了：
+
+先移动A：
+
+![](http://www.33iq.com/upload/15/08/01/_thumbs/14383848534974.png)
+
+再移动C：
+
+![](http://www.33iq.com/upload/15/08/01/_thumbs/14383848926976.png)
+
+Get it！
