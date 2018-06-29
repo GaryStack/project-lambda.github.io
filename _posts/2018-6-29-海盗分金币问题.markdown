@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Links"
+date: 2018-4-1
+categories:
+  - A_Link
+description: Links
+image: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/15.jpg?raw=true
+image-sm: https://github.com/A-Failure/A-Failure.github.io/blob/master/img/15.jpg?raw=true
+---
+# 题目大意
+
+
+现有10个海盗，100枚金币。当前由第10个海盗提出分金币的方案。
+
+游戏设定是如果这些海盗中有**一半及以上**的海盗同意此方案，这个提出方案的海盗就不会被扔到海里。
+
+否则就会被扔到海里喂鱼。
+
+海盗有自己的人设：
+
++ 每个海盗都很贪婪，希望能得到更多的金币
++ 有很强的求生欲，比起拿钱，海盗更想活下来
++ 在不损失自己利益的情况下，海盗想把自己的同伴扔下去喂鱼
++ 每个海盗都十分聪明，并且目光长远
+
+问第10个海盗提出的方案是什么才能保证自己不会被扔下海里，并且自己能获得尽量多的金币？
+
+
+<p><br>
+<p><br>
+<p><br>
+<p><br>
+<p><br>
+<p><br>
+
+
+
+# Solution
