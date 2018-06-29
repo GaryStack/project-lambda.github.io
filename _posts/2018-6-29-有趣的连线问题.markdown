@@ -5,8 +5,8 @@ date: 2018-6-29
 categories:
   - 数学分析和证明？
 description: 有趣的连线问题
-image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
-image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+image: https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1530262072&di=8b4a74fcaca7bb10cdb336e125be06c1&src=http://mmbiz.qpic.cn/mmbiz/jcal4n5d3tgicLNliaCsfn97MKk9ickaaroIM7QxCAsQwsLGTnxnLzTyMFuBc82bfrWnZpBgNYdqCAoZiboqyQzaxA/0
+image-sm: https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1530262072&di=8b4a74fcaca7bb10cdb336e125be06c1&src=http://mmbiz.qpic.cn/mmbiz/jcal4n5d3tgicLNliaCsfn97MKk9ickaaroIM7QxCAsQwsLGTnxnLzTyMFuBc82bfrWnZpBgNYdqCAoZiboqyQzaxA/0
 ---
 
 如果下面的图片不清晰的话，可以直接来[我的github](https://github.com/GaryStack/GaryStack.github.io/blob/master/_posts/2018-6-29-有趣的连线问题.markdown)看
