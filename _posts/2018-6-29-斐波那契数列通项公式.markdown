@@ -1,0 +1,67 @@
+---
+layout: post
+title: "斐波那契数列通项公式"
+date: 2018-6-29
+categories:
+  - 数学分析和证明？
+description: 斐波那契数列通项公式
+image: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+image-sm: https://raw.githubusercontent.com/xMinh/xMinh.github.io/master/pic/backgrounds/3068befa-45dd-491c-a506-66b86a5c65f4.jpg
+---
+
+# 题目大意
+
+古典问题：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？
+
+~~兔子不死可还行~~
+
+# Solution
+
+好像求出递推形式是非常简单的，就是一个斐波那契数列：
+
+1 1 2 3 5 8 13 21……
+
+设F[i] 表示第`i`项的数字，则 `F[i] = F[i-1] + F[i-2]`
+
+他的通项公式是
+
+![](http://5b0988e595225.cdn.sohucs.com/images/20170831/06c56ff41b524603b1a6ec72598de9b4.png)
+
+现在我想说的是几种证明其通项公式的方法：
+
+1. ### 求解线性特征方程：
+
+   #### 特征方程：
+
+   假设 F[i+2] = aF[i+1] + bF[i]
+
+   则 F[i+2] -yF[i+1]=(a-y)F[i+1]+bF[i]  
+
+   F[i+2]-yF[i+1]=(a-y)*(F[i+1]+b/(a-y)F[i])
+
+   当-y=b/(a-y) 时，这是一个公比是a-y的等比数列
+
+   此时得：`y^2=b+ay`，这就是线性递推式的特征方程。
+
+   设 r，s分别为次方程的两个解。
+
+   #### 求解通项公式：
+
+   r+s = a
+
+   r*s = -b
+
+   把r，s代入式子中，两个式子一减得到：
+
+   关于F[i]的求和公式。代入F[1]，F[2]得解：
+
+   ![](http://5b0988e595225.cdn.sohucs.com/images/20170831/06c56ff41b524603b1a6ec72598de9b4.png)
+
+2. ### 一种非常神奇的证明：
+
+有趣的是，这样一个**完全是自然数的数列，通项公式居然是用无理数来表达的，**而且当n无穷大时**，F n-1 / F n 越来越逼近黄金分割数0.618，**正因为它的种种神奇性质，美国数学会甚至从1960年代起出版了《斐波纳契数列》季刊。
+
+这个等式很漂亮，不需要借助复杂的数学推导，它有一个很直观的证明方法。
+
+![](http://5b0988e595225.cdn.sohucs.com/images/20170831/d6d63a89b0974849b40bdd3cead3bc7c.jpeg)
+
