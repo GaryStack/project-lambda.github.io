@@ -53,7 +53,17 @@ layout: default
   </section>
 
 </article>
-
+<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
+<script>
+  var cloudTieConfig = {
+    url: document.location.href, 
+    sourceId: "",
+    productKey: "",
+    target: "cloud-tie-wrapper"
+  };
+  var yunManualLoad = true;
+  Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
+</script>
 {% if page.previous.url %}
   <section class="next">
     <a class="next__link" href="{{page.previous.url | prepend: site.baseurl }}" style="background-image: url('{{ page.previous.image }}');">
@@ -63,4 +73,19 @@ layout: default
       </div>
     </a>
   </section>
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: '页面 ID', // 可选。默认为 location.href
+  owner: 'GaryStack',
+  repo: 'GaryStack.github.io',
+  oauth: {
+    client_id: 'c349abcf243c9735db97',
+    client_secret: '19d4b203934dcfd108b7fcc72b51553f812dc9a8',
+  },
+})
+gitment.render('container')
+</script>
 {% endif %}
