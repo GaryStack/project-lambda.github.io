@@ -73,5 +73,11 @@ Update：刚开始是在BZOJ上做的，后来一看luogu标签是黑色的，�
 
 设 f[i] 表示最后一个选的是i的方案数的什么，转移显然 
 
-![](http://latex.codecogs.com/gif.latex?f_i%3D%5Csum_%7Bj%3D1%7D%5E%7Bi-1%7D%5Ba_i%3Ea_j%5Df_j)
+ax^{2} + by^{2} + c =0
+
+O(n^2)。可得 9 pts
+
+## 子任务 2：
+
+对于子任务 2，发现所有的取值都是
 
